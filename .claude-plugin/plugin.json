@@ -1,0 +1,9 @@
+{
+  "name": "m3-expressive",
+  "version": "0.1.0",
+  "description": "Material 3 Expressive look: slow-floating rounded shapes in red, yellow, blue and green, with gentle spring bounces and morphs.",
+  "author": { "name": "LinusAuditore" },
+  "license": "BSD-2-Clause",
+  "homepage": "https://github.com/LinusAuditore/claude-m3-expressive-theme",
+  "repository": "https://github.com/LinusAuditore/claude-m3-expressive-theme"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "claude-m3-expressive-theme",
+  "description": "A Material 3 Expressive theme for the Claude desktop and mobile apps.",
+  "owner": { "name": "LinusAuditore" },
+  "plugins": [{ "name": "m3-expressive", "source": "./" }]
+}
